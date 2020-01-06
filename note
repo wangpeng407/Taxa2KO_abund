@@ -1,0 +1,7 @@
+step1: 筛选top 10 phylum, genus 和 species
+
+step2: 根据第一步的筛选，过滤Unigenes.KEGG.tax.xls
+
+step3: 计算分组的Unigenes.readsNum.relative.xls
+
+step4: 计算每个分组的top10的taxa和ko的对应信息
